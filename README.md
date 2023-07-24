@@ -1,5 +1,5 @@
 # Graphical Data Visualization through Matplotlib
-This repository contains examples of creating various line charts and subplots using Matplotlib library in Python.
+This repository contains examples of creating various line charts and subplots using **Matplotlib** library in Python.
 
 ### 1. Simple Line Chart
 The first example demonstrates how to create a simple line chart.
